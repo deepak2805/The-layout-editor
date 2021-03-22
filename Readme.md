@@ -1,2 +1,3 @@
-## Relative Layout
-![](app/src/main/res/drawable/relative_layout.gif)
+## Tablet Layout Horizontal
+![](app/src/main/res/drawable/coding.gif)
+
